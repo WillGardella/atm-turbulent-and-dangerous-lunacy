@@ -1,6 +1,6 @@
 # atm-turbulent-and-dangerous-lunacy
 
-my new project
+My Hamlet inspired project
 
 This is a repository to go with my article on creating an Express web application using TypeScript 2.
 
